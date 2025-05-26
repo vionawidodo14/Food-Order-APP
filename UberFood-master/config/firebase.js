@@ -8,7 +8,7 @@ import { getAuth } from "firebase/auth";
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyCCCpKFazo3iZvm9KlNMAYf9XikXtR7Ylo",
+  apiKey: " ", // input your Google API Key
   authDomain: "uber-food-clone-a209f.firebaseapp.com",
   projectId: "uber-food-clone-a209f",
   storageBucket: "uber-food-clone-a209f.appspot.com",
