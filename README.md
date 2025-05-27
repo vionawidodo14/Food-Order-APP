@@ -1,30 +1,30 @@
-🍔 Food Order App (React Native)
+**Food Order App (React Native)**
 
 This is a mobile Food Ordering Application built with React Native, allowing users to browse restaurants, order meals, and choose between Delivery or Pick-Up options. Users can explore menus by category, manage their accounts, and view their order history — all in a seamless, mobile-friendly experience. This app also works fine with both operating system which are iOS and Android.
 
-Features
+**Features**
 
-🏠 Restaurant Browsing
+Restaurant Browsing
 1. View a list of available restaurants
 2. Browse featured dishes and categories
 3. Search and filter
 
    
-🍴 Menu & Categories
+Menu & Categories
 1. Browse menu items organized into categories
 2. View detailed descriptions and prices
 3. Add items to cart with quantity options
 
 
-🚚 Order Options
+Order Options
 1. Delivery or Pick-Up toggle
 
-👤 Account Management
+Account Management
 1. Sign up, log in, and manage profile information
 2. Edit name, email, phone number and password
 
    
-📦 Order History
+Order History
 1. View past orders with date, total, and items
 
 Below is the how the food order app will look like on your phone📱 
